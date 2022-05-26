@@ -1,0 +1,489 @@
+﻿Build1=Default,ir.taravatgroup.mylitner
+File1=1000.xls
+File10=BKoodkBd.ttf
+File11=BNazanin.ttf
+File12=book1.png
+File13=books.png
+File14=books_layout.bal
+File15=box.png
+File16=box2.png
+File17=bulb.png
+File18=BYekan.ttf
+File19=db3.db
+File2=1001.xls
+File20=dictionary.png
+File21=dictionary_layout.bal
+File22=education.png
+File23=exam.png
+File24=exam_layout.bal
+File25=favorite.png
+File26=footer.png
+File27=Ghalam-2_MRT.TTF
+File28=header.png
+File29=help.jpg
+File3=1002.xls
+File30=help.png
+File31=help_layout.bal
+File32=home_layout.bal
+File33=icon.png
+File34=init_exam_layout.bal
+File35=item_level.bal
+File36=item_store.bal
+File37=item_words.bal
+File38=Jaleh_MRT.ttf
+File39=lang.db
+File4=1003.xls
+File40=lessen_layout.bal
+File41=lessen1.png
+File42=lessen2.png
+File43=level_layout.bal
+File44=pic2.jpg
+File45=pic3.jpg
+File46=pic5.jpg
+File47=pic6.jpg
+File48=pic8.jpg
+File49=result_layout.bal
+File5=1004.xls
+File50=scroll_item_hom.bal
+File51=scroll_item_word.bal
+File52=scw_h_items.bal
+File53=setting_layout.bal
+File54=setting_time_layout.bal
+File55=store.png
+File56=store_layout.bal
+File57=store_list.txt
+File58=store_list.xls
+File59=test.xls
+File6=ADastNevis.ttf
+File60=word_layout.bal
+File61=words.png
+File7=add_voice_layout.bal
+File8=all_exam_layout.bal
+File9=all_words_layout.bal
+FileGroup1=Default Group
+FileGroup10=Default Group
+FileGroup11=Default Group
+FileGroup12=Default Group
+FileGroup13=Default Group
+FileGroup14=Default Group
+FileGroup15=Default Group
+FileGroup16=Default Group
+FileGroup17=Default Group
+FileGroup18=Default Group
+FileGroup19=Default Group
+FileGroup2=Default Group
+FileGroup20=Default Group
+FileGroup21=Default Group
+FileGroup22=Default Group
+FileGroup23=Default Group
+FileGroup24=Default Group
+FileGroup25=Default Group
+FileGroup26=Default Group
+FileGroup27=Default Group
+FileGroup28=Default Group
+FileGroup29=Default Group
+FileGroup3=Default Group
+FileGroup30=Default Group
+FileGroup31=Default Group
+FileGroup32=Default Group
+FileGroup33=Default Group
+FileGroup34=Default Group
+FileGroup35=Default Group
+FileGroup36=Default Group
+FileGroup37=Default Group
+FileGroup38=Default Group
+FileGroup39=Default Group
+FileGroup4=Default Group
+FileGroup40=Default Group
+FileGroup41=Default Group
+FileGroup42=Default Group
+FileGroup43=Default Group
+FileGroup44=Default Group
+FileGroup45=Default Group
+FileGroup46=Default Group
+FileGroup47=Default Group
+FileGroup48=Default Group
+FileGroup49=Default Group
+FileGroup5=Default Group
+FileGroup50=Default Group
+FileGroup51=Default Group
+FileGroup52=Default Group
+FileGroup53=Default Group
+FileGroup54=Default Group
+FileGroup55=Default Group
+FileGroup56=Default Group
+FileGroup57=Default Group
+FileGroup58=Default Group
+FileGroup59=Default Group
+FileGroup6=Default Group
+FileGroup60=Default Group
+FileGroup61=Default Group
+FileGroup7=Default Group
+FileGroup8=Default Group
+FileGroup9=Default Group
+Group=Default Group
+Library1=abextdrawing
+Library10=preoptimizedclv
+Library11=reflection
+Library12=runtimepermissions
+Library13=speechrecognitionnoui
+Library14=sql
+Library15=tts
+Library16=xcustomlistview
+Library17=xui
+Library18=xui views
+Library19=stringfunctions
+Library2=amir_chartview
+Library3=core
+Library4=dateutils
+Library5=excel
+Library6=imageeffects
+Library7=json
+Library8=localizer
+Library9=phone
+ManifestCode='This code will be applied to the manifest file during compilation.~\n~'You do not need to modify it in most cases.~\n~'See this link for for more information: https://www.b4x.com/forum/showthread.php?p=78136~\n~AddManifestText(~\n~<uses-sdk android:minSdkVersion="15" android:targetSdkVersion="29"/>~\n~<supports-screens android:largeScreens="true" ~\n~    android:normalScreens="true" ~\n~    android:smallScreens="true" ~\n~    android:anyDensity="true"/>)~\n~SetApplicationAttribute(android:icon, "@drawable/icon")~\n~SetApplicationAttribute(android:label, "$LABEL$")~\n~CreateResourceFromFile(Macro, Themes.LightTheme)~\n~'End of default text.~\n~AddPermission("android.permission.WRITE_EXTERNAL_STORAGE")~\n~AddPermission("android.permission.READ_EXTERNAL_STORAGE")~\n~~\n~AddPermission(android.permission.RECORD_AUDIO)~\n~AddPermission(android.permission.INTERNET)~\n~
+Module1=add_voice_activity
+Module10=level_activity
+Module11=result_activity
+Module12=setting_activity
+Module13=setting_time_activity
+Module14=singl_word_activity
+Module15=Starter
+Module16=store_activity
+Module17=word_activity
+Module2=all_exam_activity
+Module3=all_words_activity
+Module4=book_activity
+Module5=dictionary_activity
+Module6=exam_activity
+Module7=help_activity
+Module8=init_exam_activity
+Module9=lessen_activity
+NumberOfFiles=61
+NumberOfLibraries=19
+NumberOfModules=17
+Version=11.5
+@EndOfDesignText@
+#Region  Project Attributes 
+	#ApplicationLabel: لایتنر من
+	#VersionCode: 2
+	#VersionName: 2.1
+	'SupportedOrientations possible values: unspecified, landscape or portrait.
+	#SupportedOrientations: portrait
+	#CanInstallToExternalStorage: true
+#End Region
+
+#Region  Activity Attributes 
+	#FullScreen: False
+	#IncludeTitle: False
+#End Region
+
+Sub Process_Globals
+	'These global variables will be declared once when the application starts.
+	'These variables can be accessed from all modules.
+	Dim sq_db As SQL
+	Dim query As String
+	Dim current_word_id As Int
+	Dim current_word As String
+	Dim book_name As String = ""
+	Dim lessen_name As String = ""
+	Dim level_name As Int =0
+	
+	Dim time_list_level As List
+	Dim level_list_name As List
+	Dim last_level As Int
+	Dim end_page As String
+	'--------- setting from db ---------
+	Dim app_color As Int
+	
+	
+	Dim app_font As Typeface
+	Dim app_font_name As String
+	Dim app_font_size As Int
+	Dim app_lang As String
+	Dim app_version As String
+	
+	Dim loc As Localizator
+	
+End Sub
+
+Sub Globals
+	'These global variables will be redeclared each time the activity is created.
+	
+
+	Private lbl_books As Label
+	Private lbl_lessens As Label
+	Private lbl_words As Label
+	Private pan_msg As Panel
+	Private lbl_matn_msg As Label
+	Private lbl_title_msg As Label
+	Private btn_info As Button
+	Private btn_setting As Button
+	
+	
+	
+	Private scroll_view As ScrollView
+	Private pan_items As Panel
+	Private Label1 As Label
+	Private Label2 As Label
+	Private Label4 As Label
+	Private Label6 As Label
+	Private Label16 As Label
+	Private Label8 As Label
+	Private Label14 As Label
+	Private Label12 As Label
+	Private Label3 As Label
+	Private Label10 As Label
+End Sub
+
+Sub Activity_Create(FirstTime As Boolean)
+	Activity.LoadLayout("home_layout")
+	scroll_view.Panel.LoadLayout("scroll_item_hom")
+	If(File.Exists(File.DirInternal,"db3.db")) Then
+		sq_db.Initialize(File.DirInternal,"db3.db",True)
+		'============ چک وجود تنظیمات در دیتابیس و قرار دادن آن
+		Dim cur_chek As Cursor
+		Try
+		cur_chek=sq_db.ExecQuery("SELECT * FROM exam")
+		cur_chek.Position=0
+		'ToastMessageShow("okkkkk",False)	
+		Catch
+			sq_db.ExecNonQuery("CREATE TABLE 'exam' ('id'	INTEGER Not Null PRIMARY KEY AUTOINCREMENT UNIQUE,'date'	TEXT,'all_qust'	INTEGER,'correct'	INTEGER,'incorrect'	INTEGER,'state'	INTEGER);")
+			ToastMessageShow("creat exam db",False)
+		End Try
+		
+			
+		
+		
+		'=========================
+		
+	Else
+		File.Copy(File.DirAssets,"db3.db",File.DirInternal,"db3.db")
+		sq_db.Initialize(File.DirInternal,"db3.db",True)
+	End If
+	
+	time_list_level.Initialize
+	level_list_name.Initialize
+	
+	end_page="home"
+	'------- intialaize setting db---------
+	
+	Dim cur_setting As Cursor
+	cur_setting=sq_db.ExecQuery("SELECT * FROM setting")
+	cur_setting.Position=0 '--font
+	app_font_name=cur_setting.GetString("option_value")
+	
+	
+	
+	cur_setting.Position=1 '--app_color
+	app_color=cur_setting.Getint("option_value")
+	
+	
+	cur_setting.Position=2 '--app_version
+	'app_version=cur_setting.GetString("option_value")
+	app_version=Application.VersionName
+	
+	'cur_setting.Position=3 '--auto_tts
+	
+	'cur_setting.Position=4 '--type_cards
+	
+	cur_setting.Position=5 '--font_size
+	app_font_size=cur_setting.Getint("option_value")
+	
+	cur_setting.Position=6 '--lang
+	app_lang=cur_setting.GetString("option_value")
+	loc.Initialize(File.DirAssets,"lang.db")
+	loc.ForceLocale(app_lang)
+	
+	
+	If (app_lang=="fa")Then
+		app_font = Typeface.LoadFromAssets(app_font_name)
+	Else
+		app_font = Typeface.DEFAULT
+	End If
+	
+	
+	Activity.Color=app_color
+	'------------------------------------- 
+	
+	
+	
+
+	tab_updat
+	
+	
+	Dim cur4 As Cursor
+	query="SELECT * FROM level"
+	cur4 = sq_db.ExecQuery(query)
+	For k=0 To cur4.RowCount-1
+		cur4.Position=k
+		time_list_level.Add(cur4.GetString("time"))
+		level_list_name.Add(cur4.GetString("name"))
+	Next
+	
+	last_level=level_list_name.Get(level_list_name.Size-1)
+	
+	For Each v As View In Activity.GetAllViewsRecursive
+		
+		If v Is Label Then
+			If (v Is Button) Then
+				Continue
+			End If
+			Dim lbl As Label = v
+			lbl.Typeface = app_font
+			lbl.TextSize=app_font_size
+		End If
+	Next
+	'----------------- strings----------
+	Label1.Text=loc.Localize("main-1")
+	Label2.Text=loc.Localize("main-2")
+	Label4.Text=loc.Localize("main-3")
+	Label6.Text=loc.Localize("main-4")
+	lbl_title_msg.Text=loc.Localize("main-5")
+	lbl_matn_msg.Text=loc.Localize("main-6")
+	Label8.Text=loc.Localize("main-2")
+	Label16.Text=loc.Localize("main-7")
+	Label14.Text=loc.Localize("main-8")
+	Label12.Text= "کتابدونی"  ''loc.Localize("main-9")
+	Label10.Text=loc.Localize("main-10")
+	Label3.Text=loc.Localize("main-11")
+	
+	
+	
+	'----------------------------------
+	
+End Sub
+
+Sub PhoneLanguage As String 
+	Dim r As Reflector
+	r.Target = r.RunStaticMethod("java.util.Locale", "getDefault", Null, Null)
+	Return r.RunMethod("getDisplayName")
+End Sub 
+	
+Sub Activity_Resume
+	
+	
+End Sub
+
+Sub Activity_Pause (UserClosed As Boolean)
+
+End Sub
+
+Sub tab_updat
+	Dim cur1 As Cursor
+	cur1 = sq_db.ExecQuery("SELECT * FROM books")
+	
+	Dim cur3 As Cursor
+	query="SELECT * FROM lessen"
+	
+	cur3 = sq_db.ExecQuery(query)
+'	For i=0 To cur3.RowCount-1
+'		cur3.Position=i
+'		book_list.AddTwoLines(cur3.GetString("name"),cur3.GetString("book"))
+'	Next
+	Dim cur2 As Cursor
+	cur2 = sq_db.ExecQuery("SELECT * FROM words")
+	lbl_books.Text=cur1.RowCount
+	lbl_lessens.Text=cur3.RowCount
+	lbl_words.Text=cur2.RowCount
+End Sub
+
+
+
+
+
+
+Private Sub pan_help_Click
+	StartActivity(help_activity)
+	Activity.finish
+End Sub
+
+Private Sub pan_book_Click
+	StartActivity(book_activity)
+	Activity.finish
+End Sub
+
+
+
+Private Sub exit_sub As Boolean
+	Dim ext As Int
+	ext = Msgbox2 (loc.Localize("main-13"), loc.Localize("main-12"), loc.Localize("main-14"), loc.Localize("main-15") , "", Null)
+	If ext = DialogResponse.POSITIVE Then
+		ExitApplication
+		Return False
+	Else
+		Return True
+	End If
+	
+End Sub
+
+
+Sub Activity_KeyPress (KeyCode As Int) As Boolean
+	If KeyCode = KeyCodes.KEYCODE_BACK Then
+		exit_sub
+		Return True
+	Else
+		Return False
+	End If
+End Sub
+
+
+Private Sub pan_words_Click
+	end_page="home"
+	StartActivity(all_words_activity)
+	
+End Sub
+
+Private Sub btn_info_Click
+	lbl_title_msg.Text=loc.Localize("main-5")
+	lbl_matn_msg.Text=loc.Localize("main-16")&CRLF &loc.Localize("main-17")&CRLF&loc.Localize("main-18")&app_version&CRLF&loc.Localize("main-19")
+		
+	pan_msg.Visible=True
+	
+	
+End Sub
+
+Private Sub btn_close_msg_Click
+	pan_msg.Visible=False
+End Sub
+
+Private Sub pan_exam_Click
+	StartActivity(all_exam_activity)
+	Activity.finish
+	
+'	lbl_title_msg.Text=loc.Localize("main-20")
+'	lbl_matn_msg.Text=loc.Localize("main-21")&CRLF&loc.Localize("main-22")
+'	pan_msg.Visible=True
+End Sub
+
+Private Sub pan_msg_Click
+	btn_close_msg_Click
+End Sub
+
+Private Sub btn_setting_Click
+	StartActivity(setting_activity)
+	Activity.finish
+End Sub
+
+Private Sub pan_dictionary_Click
+	current_word=""
+	StartActivity(dictionary_activity)
+	
+End Sub
+
+Private Sub lbl_words_Click
+	pan_words_Click
+End Sub
+
+Private Sub lbl_books_Click
+	pan_book_Click
+End Sub
+
+Private Sub pan_msg_show_Click
+	
+End Sub
+
+Private Sub pan_store_Click
+	
+	StartActivity(store_activity)
+End Sub

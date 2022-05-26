@@ -1,0 +1,332 @@
+--release
+--output
+E:\b4a\b4a new projects\myLitner\Objects
+--lib
+D:\androidsdk\platforms\android-31\android.jar
+D:\androidsdk\tools\..\extras\b4a_local\unpacked-b4ashared-63783445550000\dex_v1\b4ashared.zip
+d:\androidsdk\tools\..\extras\b4a_remote\androidx\legacy\legacy-support-v4\1.0.0\unpacked-legacy-support-v4-1.0.0\jars\classes.zip
+d:\androidsdk\tools\..\extras\b4a_remote\androidx\core\core\1.3.1\unpacked-core-1.3.1\jars\classes.zip
+d:\androidsdk\tools\..\extras\b4a_remote\androidx\lifecycle\lifecycle-runtime\2.2.0\unpacked-lifecycle-runtime-2.2.0\jars\classes.zip
+d:\androidsdk\tools\..\extras\b4a_remote\androidx\versionedparcelable\versionedparcelable\1.1.1\unpacked-versionedparcelable-1.1.1\jars\classes.zip
+d:\androidsdk\tools\..\extras\b4a_remote\androidx\media\media\1.1.0\unpacked-media-1.1.0\jars\classes.zip
+d:\androidsdk\tools\..\extras\b4a_remote\androidx\legacy\legacy-support-core-utils\1.0.0\unpacked-legacy-support-core-utils-1.0.0\jars\classes.zip
+d:\androidsdk\tools\..\extras\b4a_remote\androidx\documentfile\documentfile\1.0.1\unpacked-documentfile-1.0.1\jars\classes.zip
+d:\androidsdk\tools\..\extras\b4a_remote\androidx\loader\loader\1.1.0\unpacked-loader-1.1.0\jars\classes.zip
+d:\androidsdk\tools\..\extras\b4a_remote\androidx\lifecycle\lifecycle-livedata-core\2.2.0\unpacked-lifecycle-livedata-core-2.2.0\jars\classes.zip
+d:\androidsdk\tools\..\extras\b4a_remote\androidx\arch\core\core-runtime\2.1.0\unpacked-core-runtime-2.1.0\jars\classes.zip
+d:\androidsdk\tools\..\extras\b4a_remote\androidx\lifecycle\lifecycle-viewmodel\2.2.0\unpacked-lifecycle-viewmodel-2.2.0\jars\classes.zip
+d:\androidsdk\tools\..\extras\b4a_remote\androidx\localbroadcastmanager\localbroadcastmanager\1.0.0\unpacked-localbroadcastmanager-1.0.0\jars\classes.zip
+d:\androidsdk\tools\..\extras\b4a_remote\androidx\print\print\1.0.0\unpacked-print-1.0.0\jars\classes.zip
+d:\androidsdk\tools\..\extras\b4a_remote\androidx\legacy\legacy-support-core-ui\1.0.0\unpacked-legacy-support-core-ui-1.0.0\jars\classes.zip
+d:\androidsdk\tools\..\extras\b4a_remote\androidx\customview\customview\1.1.0\unpacked-customview-1.1.0\jars\classes.zip
+d:\androidsdk\tools\..\extras\b4a_remote\androidx\viewpager\viewpager\1.0.0\unpacked-viewpager-1.0.0\jars\classes.zip
+d:\androidsdk\tools\..\extras\b4a_remote\androidx\coordinatorlayout\coordinatorlayout\1.1.0\unpacked-coordinatorlayout-1.1.0\jars\classes.zip
+d:\androidsdk\tools\..\extras\b4a_remote\androidx\drawerlayout\drawerlayout\1.1.0\unpacked-drawerlayout-1.1.0\jars\classes.zip
+d:\androidsdk\tools\..\extras\b4a_remote\androidx\slidingpanelayout\slidingpanelayout\1.1.0\unpacked-slidingpanelayout-1.1.0\jars\classes.zip
+d:\androidsdk\tools\..\extras\b4a_remote\androidx\interpolator\interpolator\1.0.0\unpacked-interpolator-1.0.0\jars\classes.zip
+d:\androidsdk\tools\..\extras\b4a_remote\androidx\swiperefreshlayout\swiperefreshlayout\1.1.0\unpacked-swiperefreshlayout-1.1.0\jars\classes.zip
+d:\androidsdk\tools\..\extras\b4a_remote\androidx\asynclayoutinflater\asynclayoutinflater\1.0.0\unpacked-asynclayoutinflater-1.0.0\jars\classes.zip
+d:\androidsdk\tools\..\extras\b4a_remote\androidx\cursoradapter\cursoradapter\1.0.0\unpacked-cursoradapter-1.0.0\jars\classes.zip
+d:\androidsdk\tools\..\extras\b4a_remote\androidx\fragment\fragment\1.2.5\unpacked-fragment-1.2.5\jars\classes.zip
+d:\androidsdk\tools\..\extras\b4a_remote\androidx\fragment\fragment\1.2.5\unpacked-fragment-1.2.5\jars\lint.zip
+d:\androidsdk\tools\..\extras\b4a_remote\androidx\activity\activity\1.1.0\unpacked-activity-1.1.0\jars\classes.zip
+d:\androidsdk\tools\..\extras\b4a_remote\androidx\savedstate\savedstate\1.0.0\unpacked-savedstate-1.0.0\jars\classes.zip
+d:\androidsdk\tools\..\extras\b4a_remote\androidx\lifecycle\lifecycle-viewmodel-savedstate\2.2.0\unpacked-lifecycle-viewmodel-savedstate-2.2.0\jars\classes.zip
+D:\androidsdk\tools\..\extras\b4a_local\unpacked-abextdrawing-63480023726000\dex_v1\abextdrawing.zip
+D:\androidsdk\tools\..\extras\b4a_local\unpacked-amir_chartview-63645825632000\dex_v1\amir_chartview.zip
+D:\androidsdk\tools\..\extras\b4a_local\unpacked-core-63783445550000\dex_v1\core.zip
+D:\androidsdk\tools\..\extras\b4a_local\unpacked-dateutils-63783445550000\dex_v1\dateutils.zip
+D:\androidsdk\tools\..\extras\b4a_local\unpacked-excel-63494768280000\dex_v1\excel.zip
+D:\androidsdk\tools\..\extras\b4a_local\unpacked-imageeffects-63598989956424\dex_v1\imageeffects.zip
+D:\androidsdk\tools\..\extras\b4a_local\unpacked-json-63783445550000\dex_v1\json.zip
+D:\androidsdk\tools\..\extras\b4a_local\unpacked-localizer-63762190135604\dex_v1\localizer.zip
+D:\androidsdk\tools\..\extras\b4a_local\unpacked-phone-63783445550000\dex_v1\phone.zip
+D:\androidsdk\tools\..\extras\b4a_local\unpacked-reflection-63783445550000\dex_v1\reflection.zip
+D:\androidsdk\tools\..\extras\b4a_local\unpacked-runtimepermissions.androidx-63698174234000\dex_v1\runtimepermissions.zip
+D:\androidsdk\tools\..\extras\b4a_local\unpacked-speechrecognitionnoui-63716853981833\dex_v1\speechrecognitionnoui.zip
+D:\androidsdk\tools\..\extras\b4a_local\unpacked-sql-63783445550000\dex_v1\sql.zip
+D:\androidsdk\tools\..\extras\b4a_local\unpacked-tts-63783445550000\dex_v1\tts.zip
+D:\androidsdk\tools\..\extras\b4a_local\unpacked-xcustomlistview-63783445550000\dex_v1\xcustomlistview.zip
+D:\androidsdk\tools\..\extras\b4a_local\unpacked-xui-63783445550000\dex_v1\xui.zip
+D:\androidsdk\tools\..\extras\b4a_local\unpacked-stringfunctions-63530416118000\dex_v1\stringfunctions.zip
+D:\androidsdk\tools\..\extras\b4a_local\unpacked-jxl-63454601748000\dex_v1\jxl.zip
+D:\androidsdk\tools\..\extras\b4a_local\unpacked-javaobject-63783445550000\dex_v1\javaobject.zip
+D:\androidsdk\tools\..\extras\b4a_local\unpacked-stringutils-63783445550000\dex_v1\stringutils.zip
+D:\androidsdk\tools\..\extras\b4a_local\unpacked-bitmapcreator-63783445550000\dex_v1\bitmapcreator.zip
+D:\androidsdk\tools\..\extras\b4a_local\unpacked-ime-63783445550000\dex_v1\ime.zip
+d:\androidsdk\tools\..\extras\b4a_remote\androidx\annotation\annotation\1.1.0\annotation-1.1.0.zip
+d:\androidsdk\tools\..\extras\b4a_remote\androidx\lifecycle\lifecycle-common\2.2.0\lifecycle-common-2.2.0.zip
+d:\androidsdk\tools\..\extras\b4a_remote\androidx\arch\core\core-common\2.1.0\core-common-2.1.0.zip
+d:\androidsdk\tools\..\extras\b4a_remote\androidx\collection\collection\1.1.0\collection-1.1.0.zip
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\coordinatorlayout\R$anim.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\coordinatorlayout\R$attr.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\coordinatorlayout\R$color.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\coordinatorlayout\R$dimen.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\coordinatorlayout\R$drawable.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\coordinatorlayout\R$id.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\coordinatorlayout\R$integer.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\coordinatorlayout\R$layout.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\coordinatorlayout\R$string.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\coordinatorlayout\R$style.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\coordinatorlayout\R$styleable.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\coordinatorlayout\R.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\core\R$anim.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\core\R$attr.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\core\R$color.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\core\R$dimen.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\core\R$drawable.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\core\R$id.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\core\R$integer.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\core\R$layout.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\core\R$string.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\core\R$style.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\core\R$styleable.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\core\R.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\drawerlayout\R$anim.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\drawerlayout\R$attr.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\drawerlayout\R$color.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\drawerlayout\R$dimen.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\drawerlayout\R$drawable.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\drawerlayout\R$id.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\drawerlayout\R$integer.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\drawerlayout\R$layout.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\drawerlayout\R$string.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\drawerlayout\R$style.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\drawerlayout\R$styleable.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\drawerlayout\R.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\fragment\R$anim.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\fragment\R$attr.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\fragment\R$color.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\fragment\R$dimen.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\fragment\R$drawable.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\fragment\R$id.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\fragment\R$integer.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\fragment\R$layout.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\fragment\R$string.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\fragment\R$style.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\fragment\R$styleable.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\fragment\R.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\media\R$anim.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\media\R$attr.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\media\R$color.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\media\R$dimen.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\media\R$drawable.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\media\R$id.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\media\R$integer.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\media\R$layout.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\media\R$string.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\media\R$style.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\media\R$styleable.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\media\R.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\swiperefreshlayout\R$anim.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\swiperefreshlayout\R$attr.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\swiperefreshlayout\R$color.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\swiperefreshlayout\R$dimen.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\swiperefreshlayout\R$drawable.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\swiperefreshlayout\R$id.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\swiperefreshlayout\R$integer.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\swiperefreshlayout\R$layout.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\swiperefreshlayout\R$string.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\swiperefreshlayout\R$style.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\swiperefreshlayout\R$styleable.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\androidx\swiperefreshlayout\R.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\add_voice_activity$1.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\add_voice_activity$B4AMenuItemsClickListener.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\add_voice_activity$HandleKeyDelayed.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\add_voice_activity$ResumeMessage.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\add_voice_activity$WaitForLayout.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\add_voice_activity.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\all_exam_activity$1.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\all_exam_activity$B4AMenuItemsClickListener.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\all_exam_activity$HandleKeyDelayed.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\all_exam_activity$ResumeMessage.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\all_exam_activity$WaitForLayout.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\all_exam_activity.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\all_words_activity$1.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\all_words_activity$B4AMenuItemsClickListener.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\all_words_activity$HandleKeyDelayed.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\all_words_activity$ResumeMessage.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\all_words_activity$WaitForLayout.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\all_words_activity.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\animatedcounter.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\anotherprogressbar$ResumableSub_BusyLoop.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\anotherprogressbar.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xbitset.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xbreadcrumb.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xbytesbuilder.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xcache$_b4xcacheitem.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xcache.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xcollections.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xcolortemplate$ResumableSub_Show.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xcolortemplate$_colorpickerpart.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xcolortemplate.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xcombobox$ResumableSub_RaiseEvent.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xcombobox.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xcomparatorsort.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xdatetemplate$ResumableSub_Show.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xdatetemplate.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xdialog$ResumableSub_Show.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xdialog$ResumableSub_ShowCustom.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xdialog$ResumableSub_ShowTemplate.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xdialog.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xfloattextfield$ResumableSub_SwitchFromPasswordToRegular.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xfloattextfield.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xformatter$_b4xformatdata.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xformatter.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4ximageview.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xinputtemplate$ResumableSub_Show.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xinputtemplate.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xlisttemplate$ResumableSub_Show.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xlisttemplate.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xloadingindicator$ResumableSub_MainLoop.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xloadingindicator.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xlongtexttemplate.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xorderedmap.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xplusminus$ResumableSub_StartDownLoop.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xplusminus.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xradiobutton$ResumableSub_SetValueImpl.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xradiobutton.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xsearchtemplate$ResumableSub_Show.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xsearchtemplate.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xseekbar.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xset.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xsignaturetemplate.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xswitch$ResumableSub_SetValueImpl.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xswitch.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xtimedtemplate$ResumableSub_Show.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\b4xtimedtemplate.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\book_activity$1.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\book_activity$B4AMenuItemsClickListener.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\book_activity$HandleKeyDelayed.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\book_activity$ResumableSub_btn_del_Click.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\book_activity$ResumeMessage.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\book_activity$WaitForLayout.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\book_activity.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\dictionary_activity$1.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\dictionary_activity$B4AMenuItemsClickListener.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\dictionary_activity$HandleKeyDelayed.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\dictionary_activity$ResumeMessage.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\dictionary_activity$WaitForLayout.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\dictionary_activity.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\exam_activity$1.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\exam_activity$B4AMenuItemsClickListener.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\exam_activity$HandleKeyDelayed.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\exam_activity$ResumeMessage.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\exam_activity$WaitForLayout.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\exam_activity.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\help_activity$1.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\help_activity$B4AMenuItemsClickListener.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\help_activity$HandleKeyDelayed.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\help_activity$ResumeMessage.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\help_activity$WaitForLayout.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\help_activity.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\init_exam_activity$1.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\init_exam_activity$B4AMenuItemsClickListener.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\init_exam_activity$HandleKeyDelayed.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\init_exam_activity$ResumeMessage.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\init_exam_activity$WaitForLayout.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\init_exam_activity.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\lessen_activity$1.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\lessen_activity$B4AMenuItemsClickListener.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\lessen_activity$HandleKeyDelayed.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\lessen_activity$ResumableSub_btn_del_Click.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\lessen_activity$ResumeMessage.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\lessen_activity$WaitForLayout.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\lessen_activity.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\level_activity$1.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\level_activity$B4AMenuItemsClickListener.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\level_activity$HandleKeyDelayed.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\level_activity$ResumeMessage.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\level_activity$WaitForLayout.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\level_activity.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\madewithlove.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\main$1.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\main$B4AMenuItemsClickListener.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\main$HandleKeyDelayed.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\main$ResumeMessage.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\main$WaitForLayout.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\main.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\preoptimizedclv$ResumableSub_B4XSeekBar1_TouchStateChanged.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\preoptimizedclv$ResumableSub_ListChangedExternally.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\preoptimizedclv.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\R$anim.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\R$attr.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\R$color.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\R$dimen.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\R$drawable.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\R$id.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\R$integer.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\R$layout.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\R$string.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\R$style.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\R$styleable.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\R.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\result_activity$1.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\result_activity$B4AMenuItemsClickListener.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\result_activity$HandleKeyDelayed.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\result_activity$ResumeMessage.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\result_activity$WaitForLayout.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\result_activity.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\roundslider.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\scrollinglabel$ResumableSub_StartScrolling.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\scrollinglabel.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\setting_activity$1.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\setting_activity$B4AMenuItemsClickListener.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\setting_activity$HandleKeyDelayed.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\setting_activity$ResumeMessage.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\setting_activity$WaitForLayout.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\setting_activity.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\setting_time_activity$1.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\setting_time_activity$B4AMenuItemsClickListener.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\setting_time_activity$HandleKeyDelayed.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\setting_time_activity$ResumeMessage.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\setting_time_activity$WaitForLayout.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\setting_time_activity.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\singl_word_activity$1.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\singl_word_activity$B4AMenuItemsClickListener.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\singl_word_activity$HandleKeyDelayed.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\singl_word_activity$ResumableSub_btn_delete_word_Click.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\singl_word_activity$ResumeMessage.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\singl_word_activity$WaitForLayout.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\singl_word_activity.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\starter$1.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\starter$2.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\starter$starter_BR.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\starter.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\store_activity$1.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\store_activity$B4AMenuItemsClickListener.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\store_activity$HandleKeyDelayed.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\store_activity$ResumeMessage.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\store_activity$WaitForLayout.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\store_activity.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\swiftbutton.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\word_activity$1.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\word_activity$B4AMenuItemsClickListener.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\word_activity$HandleKeyDelayed.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\word_activity$ResumableSub_btn_delete_word_Click.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\word_activity$ResumeMessage.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\word_activity$WaitForLayout.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\word_activity.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\xuiviewsutils.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\designerscripts\LS_add_voice_layout.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\designerscripts\LS_all_exam_layout.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\designerscripts\LS_all_words_layout.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\designerscripts\LS_books_layout.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\designerscripts\LS_dictionary_layout.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\designerscripts\LS_exam_layout.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\designerscripts\LS_help_layout.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\designerscripts\LS_home_layout.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\designerscripts\LS_init_exam_layout.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\designerscripts\LS_item_words.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\designerscripts\LS_lessen_layout.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\designerscripts\LS_level_layout.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\designerscripts\LS_pclvseekbar.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\designerscripts\LS_result_layout.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\designerscripts\LS_scroll_item_hom.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\designerscripts\LS_scroll_item_word.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\designerscripts\LS_scw_h_items.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\designerscripts\LS_searchtemplate.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\designerscripts\LS_setting_layout.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\designerscripts\LS_setting_time_layout.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\designerscripts\LS_store_layout.dex
+E:\b4a\b4a new projects\myLitner\Objects\dexed\ir\taravatgroup\mylitner\designerscripts\LS_word_layout.dex
